@@ -1,0 +1,6 @@
+File Containing square of number who's square is palindrome 
+Number  |  Square  | Square palindrome ?
+1            1        Yes 
+2            4        Yes 
+3            9        Yes 
+11            121        Yes 
